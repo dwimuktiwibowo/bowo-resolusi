@@ -1,2 +1,2 @@
-# wpu-resolusi
+# bowo-resolusi
 repository untuk menyimpan rencana wpu kedepannya
