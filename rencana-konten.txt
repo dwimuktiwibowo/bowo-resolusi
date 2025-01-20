@@ -10,3 +10,4 @@ rencana konten yang akan dipelajari pada bootsrap
 --belajar database
   --mysql
   --oracle
+  --postgress
