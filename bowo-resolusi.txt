@@ -3,5 +3,5 @@ Resolusi
   -- pertama belajar git dan github
   -- kedua belajar laravel
   -- ketiga belajar bootstrap
--saya harus bisa memiliki penghasilan tambahan untuk membahagiakan anak2 dan istri
 -belajar data science agar bisa menganalisis dengan baik untuk pengambilan keputusan
+-membuat vlog
