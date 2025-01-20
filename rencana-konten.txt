@@ -6,3 +6,5 @@ rencana konten yang akan dipelajari pada bootsrap
   --tombol
   --flexbox
 --belajar database
+  --mysql
+  --postgress
