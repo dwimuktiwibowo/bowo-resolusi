@@ -1,5 +1,7 @@
 rencana konten yang akan dipelajari pada bootsrap
  -belajar apa itu css
+  --basic
+  --framework
  -belajar apa itu jquery
  -belajar apa itu bootstrap
   --typo
@@ -7,4 +9,5 @@ rencana konten yang akan dipelajari pada bootsrap
   --flexbox
 --belajar database
   --mysql
+  --oracle
   --postgress
