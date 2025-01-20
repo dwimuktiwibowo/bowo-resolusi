@@ -1,0 +1,5 @@
+Resolusi
+-saya akan belajar web programming kembali dengan baik
+  -- pertama belajar git dan github
+  -- kedua belajar laravel
+  -- ketiga belajar bootstrap
